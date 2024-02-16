@@ -1,0 +1,508 @@
+[
+    {
+      "category": "Badam, Pista, Cashnut Sweets",
+      "items": [
+        {"name": "Cashew Cake", "image": "cashew_cake_image_url"},
+        {"name": "Kaju Katli", "image": "kaju_katli_image_url"},
+        {"name": "Badam Cake", "image": "badam_cake_image_url"},
+        {"name": "Badam Tilak", "image": "badam_tilak_image_url"},
+        {"name": "Badam Katli", "image": "badam_katli_image_url"},
+        {"name": "Badam Roll", "image": "badam_roll_image_url"},
+        {"name": "Badam Fig Roll", "image": "badam_fig_roll_image_url"},
+        {"name": "Badam Halwa", "image": "badam_halwa_image_url"},
+        {"name": "Pista Katli", "image": "pista_katli_image_url"},
+        {"name": "Pista Roll", "image": "pista_roll_image_url"},
+        {"name": "Bournvitta Cake", "image": "bournvitta_cake_image_url"},
+        {"name": "Rose Ladoo", "image": "rose_ladoo_image_url"},
+        {"name": "Coconut Tango", "image": "coconut_tango_image_url"},
+        {"name": "Fried Kaju Biscuit", "image": "fried_kaju_biscuit_image_url"},
+        {"name": "Dry Fruits Chikki", "image": "dry_fruits_chikki_image_url"},
+        {"name": "Badam Cutlet", "image": "badam_cutlet_image_url"},
+        {"name": "Badam Mysurpa", "image": "badam_mysurpa_image_url"},
+        {"name": "Konke Ladoo", "image": "konke_ladoo_image_url"}
+      ]
+    },
+    {
+      "category": "Khoava Sweets",
+      "items": [
+        {"name": "Makken Peda", "image": "makken_peda_image_url"},
+        {"name": "Black Jamuns", "image": "black_jamuns_image_url"},
+        {"name": "Gulab Jamun", "image": "gulab_jamun_image_url"},
+        {"name": "Malai Apple", "image": "malai_apple_image_url"},
+        {"name": "Kalingan", "image": "kalingan_image_url"},
+        {"name": "Agra Paan", "image": "agra_paan_image_url"},
+        {"name": "Bread Malpua", "image": "bread_malpua_image_url"},
+        {"name": "Real Malpua", "image": "real_malpua_image_url"}
+      ]
+    },
+    {
+      "category": "Maida Besan Sweets",
+      "items": [
+        {"name": "Soan Papdi", "image": "soan_papdi_image_url"},
+        {"name": "Maida Cake", "image": "maida_cake_image_url"},
+        {"name": "Chocolate Soan Papdi", "image": "chocolate_son_papdi_image_url"},
+        {"name": "Chocolate Burfi", "image": "chocolate_burfi_image_url"},
+        {"name": "Carrot Mysorepak", "image": "carrot_mysorepak_image_url"},
+        {"name": "Mysore Pak", "image": "mysore_pak_image_url"},
+        {"name": "Bombay Ladoo", "image": "bombay_ladoo_image_url"},
+        {"name": "Real Mango Roll", "image": "real_mango_roll_image_url"},
+        {"name": "Chikoo Roll", "image": "chikoo_roll_image_url"},
+        {"name": "Fruit Delight", "image": "fruit_delight_image_url"},
+        {"name": "Chocolate Canary", "image": "chocolate_canary_image_url"},
+        {"name": "Orange Tango", "image": "orange_tango_image_url"},
+        {"name": "Tawa Mithai", "image": "tawa_mithai_image_url"},
+        {"name": "Paruthipal Panangkarupatti Mysorepak", "image": "paruthipal_panangkarupatti_mysorepak_image_url"},
+        {"name": "Badusa", "image": "badusa_image_url"},
+        {"name": "Butter Strawberry Rasagulla", "image": "butter_strawberry_rasagulla_image_url"},
+        {"name": "Apple Jelabi", "image": "apple_jelabi_image_url"},
+        {"name": "Panneer Jelabi", "image": "paneer_jelabi_image_url"},
+        {"name": "Milky Taka Tak", "image": "milky_taka_tak_image_url"}
+      ]
+    },
+    {
+      "category": "Milk Sweets",
+      "items": [
+        {"name": "Basundhi", "image": "basundhi_image_url"},
+        {"name": "Angoor Rabadi", "image": "angoor_rabadi_image_url"},
+        {"name": "Champakalii", "image": "champakalii_image_url"},
+        {"name": "Honey Dew", "image": "honey_dew_image_url"},
+        {"name": "Rasamalai", "image": "rasamalai_image_url"},
+        {"name": "Rasagulla", "image": "rasagulla_image_url"},
+        {"name": "Sandesh", "image": "sandesh_image_url"},
+        {"name": "Chum Chum", "image": "chum_chum_image_url"},
+        {"name": "Dhood Peda", "image": "dhood_peda_image_url"},
+        {"name": "Kalakand", "image": "kalakand_image_url"},
+        {"name": "Malai Kaja", "image": "malai_kaja_image_url"},
+        {"name": "Malpua", "image": "malpua_image_url"},
+        {"name": "Panneer Jelabi", "image": "paneer_jelabi_image_url"},
+        {"name": "Agraa Paan", "image": "agraa_paan_image_url"},
+        {"name": "Mahai Paan", "image": "mahai_paan_image_url"}
+      ]
+    },
+    {
+      "category": "Halwa Varieties",
+      "items": [
+        {"name": "Pumpkin Halwa", "image": "pumpkin_halwa_image_url"},
+        {"name": "Carrot Halwa", "image": "carrot_halwa_image_url"},
+        {"name": "Dates Halwa", "image": "dates_halwa_image_url"},
+        {"name": "Milk Halwa", "image": "milk_halwa_image_url"},
+        {"name": "Moongdal Halwa", "image": "moongdal_halwa_image_url"},
+        {"name": "Wheat Halwa", "image": "wheat_halwa_image_url"},
+        {"name": "Apricot Halwa", "image": "apricot_halwa_image_url"},
+        {"name": "Rava Kesari", "image": "rava_kesari_image_url"},
+        {"name": "Pineapple Kesari", "image": "pineapple_kesari_image_url"},
+        {"name": "Kasi Halwa", "image": "kasi_halwa_image_url"},
+        {"name": "Parutthipaal Panangkaruppatti Halwa", "image": "parutthipaal_panangkaruppatti_halwa_image_url"},
+        {"name": "Panangakarupatti Halwa", "image": "panangakarupatti_halwa_image_url"},
+        {"name": "Ragi Pineapple Halwa", "image": "ragi_pineapple_halwa_image_url"},
+        {"name": "Dry Fruits Halwa", "image": "dry_fruits_halwa_image_url"},
+        {"name": "Guava Kesari", "image": "guava_kesari_image_url"},
+        {"name": "Mango Kesari", "image": "mango_kesari_image_url"}
+      ]
+    },
+    {
+      "category": "Vada Varieties",
+      "items": [
+        {"name": "Ulundhu Vadai", "image": "ulundhu_vadai_image_url"},
+        {"name": "Cabbade Vadai", "image": "cabbade_vadai_image_url"},
+        {"name": "Ulundhu Bonda", "image": "ulundhu_bonda_image_url"},
+        {"name": "Mini Vada", "image": "mini_vada_image_url"},
+        {"name": "Sambar Vada", "image": "sambar_vada_image_url"},
+        {"name": "Sambar Jelabi", "image": "sambar_jelabi_image_url"},
+        {"name": "Sago Vada", "image": "sago_vada_image_url"},
+        {"name": "Mangalore Bonda", "image": "mangalore_bonda_image_url"},
+        {"name": "Mini Medhu Vada", "image": "mini_medhu_vada_image_url"},
+        {"name": "Veg Bonda", "image": "veg_bonda_image_url"}
+      ]
+    },
+    {
+      "category": "Pongal Varieties",
+      "items": [
+        {"name": "Ghee Pongal", "image": "ghee_pongal_image_url"},
+        {"name": "Rava Pongal", "image": "rava_pongal_image_url"},
+        {"name": "Five Rice Pongal", "image": "five_rice_pongal_image_url"},
+        {"name": "Seven Rice Pongal", "image": "seven_rice_pongal_image_url"},
+        {"name": "Wheat Rava Pongal", "image": "wheat_rava_pongal_image_url"},
+        {"name": "Peni Rava Pongal", "image": "peni_rava_pongal_image_url"},
+        {"name": "Sarkarai Pongal", "image": "sarkarai_pongal_image_url"},
+        {"name": "Thinai Pongal", "image": "thinai_pongal_image_url"},
+        {"name": "Samai Pongal", "image": "samai_pongal_image_url"},
+        {"name": "Vazhaippo Pongal", "image": "vazhaippo_pongal_image_url"},
+        {"name": "Seeraga Samba Pongal", "image": "seeraga_samba_pongal_image_url"},
+        {"name": "Milk Pongal", "image": "milk_pongal_image_url"},
+        {"name": "Oats Pongal", "image": "oats_pongal_image_url"},
+        {"name": "Millet Pongal", "image": "millet_pongal_image_url"},
+        {"name": "Navadanya Pongal", "image": "navadanya_pongal_image_url"},
+        {"name": "Semiya Javarusi Pongal", "image": "semiya_javarusi_pongal_image_url"},
+        {"name": "Malli Pongal", "image": "malli_pongal_image_url"},
+        {"name": "Tomato Pongal", "image": "tomato_pongal_image_url"}
+      ]
+    },
+    {
+      "category": "Idly Varieties",
+      "items": [
+        {"name": "Idly", "image": "idly_image_url"},
+        {"name": "Ilaneer Idly", "image": "ilaneer_idly_image_url"},
+        {"name": "Pathaneer Idly", "image": "pathaneer_idly_image_url"},
+        {"name": "Kanjeevaram Idly", "image": "kanjeevaram_idly_image_url"},
+        {"name": "Rava Idly", "image": "rava_idly_image_url"},
+        {"name": "Veg Stuffed Idly", "image": "veg_stuffed_idly_image_url"},
+        {"name": "Paneer Stuffed Idly", "image": "paneer_stuffed_idly_image_url"},
+        {"name": "Mushroom Stuffed Idly", "image": "mushroom_stuffed_idly_image_url"},
+        {"name": "Ghee Podi Idly", "image": "ghee_podi_idly_image_url"},
+        {"name": "Mini Idly", "image": "mini_idly_image_url"},
+        {"name": "Mini Sambar Idly", "image": "mini_sambar_idly_image_url"},
+        {"name": "Mini Pepper Idly", "image": "mini_pepper_idly_image_url"},
+        {"name": "Malligaipoo Idly", "image": "malligaipoo_idly_image_url"},
+        {"name": "Thattu Idly", "image": "thattu_idly_image_url"},
+        {"name": "Badam Idly", "image": "badam_idly_image_url"},
+        {"name": "Ragi Idly", "image": "ragi_idly_image_url"},
+        {"name": "Kambu Idly", "image": "kambu_idly_image_url"},
+        {"name": "Multi Millet Idly", "image": "multi_millet_idly_image_url"},
+        {"name": "Ellu Podi Idly", "image": "ellu_podi_idly_image_url"},
+        {"name": "Kollu Podi Idly", "image": "kollu_podi_idly_image_url"},
+        {"name": "Curry Leaves Podi Idly", "image": "curry_leaves_podi_idly_image_url"},
+        {"name": "Guntur Podi Idly", "image": "guntur_podi_idly_image_url"},
+        {"name": "Garlic Podi Idly", "image": "garlic_podi_idly_image_url"},
+        {"name": "Chilly Idly", "image": "chilly_idly_image_url"},
+        {"name": "Mor Kulambu Idly", "image": "mor_kulambu_idly_image_url"},
+        {"name": "Rasam Idly", "image": "rasam_idly_image_url"},
+        {"name": "Chutney Idly", "image": "chutney_idly_image_url"},
+        {"name": "Manjurian Idly", "image": "manjurian_idly_image_url"},
+        {"name": "Carrot Idly", "image": "carrot_idly_image_url"},
+        {"name": "Malli Idly", "image": "malli_idly_image_url"},
+        {"name": "Mint Idly", "image": "mint_idly_image_url"},
+        {"name": "Beetroot Idly", "image": "beetroot_idly_image_url"}
+      ]
+    },
+    {
+      "category": "Kichadi Varieties",
+      "items": [
+        {"name": "Rava Kichadi", "image": "rava_kichadi_image_url"},
+        {"name": "Veg Kichadi", "image": "veg_kichadi_image_url"},
+        {"name": "Semiya Kichadi", "image": "semiya_kichadi_image_url"},
+        {"name": "Veg Semiya Bath", "image": "veg_semiya_bath_image_url"},
+        {"name": "Simiya Pulao", "image": "simiya_pulao_image_url"}
+      ]
+    },
+    {
+      "category": "Poori Varieties",
+      "items": [
+        {"name": "Poori-Potato Masala", "image": "poori_potato_masala_image_url"},
+        {"name": "Poatato Green Peas Masal", "image": "poatato_green_peas_masal_image_url"},
+        {"name": "Mini Poori", "image": "mini_poori_image_url"},
+        {"name": "Methi Poori", "image": "methi_poori_image_url"},
+        {"name": "Chole Bhature", "image": "chole_bhature_image_url"},
+        {"name": "Beetroot Poori", "image": "beetroot_poori_image_url"},
+        {"name": "Malli Poori", "image": "malli_poori_image_url"},
+        {"name": "Ragi Poori", "image": "ragi_poori_image_url"},
+        {"name": "Kambu Poori", "image": "kambu_poori_image_url"},
+        {"name": "Multi Millet Poori", "image": "multi_millet_poori_image_url"}
+      ]
+    },
+    {
+      "category": "Sevai Varieties",
+      "items": [
+        {"name": "Lemon Sevai", "image": "lemon_sevai_image_url"},
+        {"name": "Vegetable Sevai", "image": "vegetable_sevai_image_url"},
+        {"name": "Tomato Sevai", "image": "tomato_sevai_image_url"},
+        {"name": "Corn Sevai", "image": "corn_sevai_image_url"},
+        {"name": "Pepper Sevai", "image": "pepper_sevai_image_url"},
+        {"name": "Malli Sevai", "image": "malli_sevai_image_url"},
+        {"name": "Chilly Sevai", "image": "chilly_sevai_image_url"},
+        {"name": "Garlic Sevai", "image": "garlic_sevai_image_url"},
+        {"name": "Coconut Sevai", "image": "coconut_sevai_image_url"},
+        {"name": "Tamarind Sevai", "image": "tamarind_sevai_image_url"},
+        {"name": "Mint Sevai", "image": "mint_sevai_image_url"},
+        {"name": "Beetroot Sevai", "image": "beetroot_sevai_image_url"}
+      ]
+    },
+    {
+      "category": "Poli Varieties",
+      "items": [
+        {"name": "Paruppu Poli", "image": "paruppu_poli_image_url"},
+        {"name": "Coconut Poli", "image": "coconut_poli_image_url"},
+        {"name": "Dry Fruits Poli", "image": "dry_fruits_poli_image_url"},
+        {"name": "Ghee Poli", "image": "ghee_poli_image_url"},
+        {"name": "Chana Dal Poli", "image": "chana_dal_poli_image_url"},
+        {"name": "Mango Poli", "image": "mango_poli_image_url"},
+        {"name": "Pumpkin Poli", "image": "pumpkin_poli_image_url"},
+        {"name": "Pineapple Poli", "image": "pineapple_poli_image_url"},
+        {"name": "Ragi Poli", "image": "ragi_poli_image_url"},
+        {"name": "Kambu Poli", "image": "kambu_poli_image_url"},
+        {"name": "Multi Millet Poli", "image": "multi_millet_poli_image_url"}
+      ]
+    },
+    {
+      "category": "Chapathi Varieties",
+      "items": [
+        {"name": "Chapathi", "image": "chapathi_image_url"},
+        {"name": "Wheat Chapathi", "image": "wheat_chapathi_image_url"},
+        {"name": "Chola Chapathi", "image": "chola_chapathi_image_url"},
+        {"name": "Makka Chapathi", "image": "makka_chapathi_image_url"},
+        {"name": "Barley Chapathi", "image": "barley_chapathi_image_url"},
+        {"name": "Ragi Chapathi", "image": "ragi_chapathi_image_url"},
+        {"name": "Bajra Chapathi", "image": "bajra_chapathi_image_url"},
+        {"name": "Jowar Chapathi", "image": "jowar_chapathi_image_url"},
+        {"name": "Ragi Jolada Chapathi", "image": "ragi_jolada_chapathi_image_url"},
+        {"name": "Kambu Chapathi", "image": "kambu_chapathi_image_url"},
+        {"name": "Multi Millet Chapathi", "image": "multi_millet_chapathi_image_url"},
+        {"name": "Oats Chapathi", "image": "oats_chapathi_image_url"},
+        {"name": "Rajma Chapathi", "image": "rajma_chapathi_image_url"},
+        {"name": "Chana Chapathi", "image": "chana_chapathi_image_url"},
+        {"name": "Paneer Chapathi", "image": "paneer_chapathi_image_url"},
+        {"name": "Mushroom Chapathi", "image": "mushroom_chapathi_image_url"},
+        {"name": "Spinach Chapathi", "image": "spinach_chapathi_image_url"},
+        {"name": "Beetroot Chapathi", "image": "beetroot_chapathi_image_url"},
+        {"name": "Mint Chapathi", "image": "mint_chapathi_image_url"},
+        {"name": "Coriander Chapathi", "image": "coriander_chapathi_image_url"}
+      ]
+    },
+    {
+      "category": "Dosa Varieties",
+      "items": [
+        {"name": "Dosa", "image": "dosa_image_url"},
+        {"name": "Masala Dosa", "image": "masala_dosa_image_url"},
+        {"name": "Onion Dosa", "image": "onion_dosa_image_url"},
+        {"name": "Tomato Dosa", "image": "tomato_dosa_image_url"},
+        {"name": "Capsicum Dosa", "image": "capsicum_dosa_image_url"},
+        {"name": "Carrot Dosa", "image": "carrot_dosa_image_url"},
+        {"name": "Beetroot Dosa", "image": "beetroot_dosa_image_url"},
+        {"name": "Spinach Dosa", "image": "spinach_dosa_image_url"},
+        {"name": "Paneer Dosa", "image": "paneer_dosa_image_url"},
+        {"name": "Mushroom Dosa", "image": "mushroom_dosa_image_url"},
+        {"name": "Garlic Dosa", "image": "garlic_dosa_image_url"},
+        {"name": "Mint Dosa", "image": "mint_dosa_image_url"},
+        {"name": "Coriander Dosa", "image": "coriander_dosa_image_url"},
+        {"name": "Palak Dosa", "image": "palak_dosa_image_url"},
+        {"name": "Cheese Dosa", "image": "cheese_dosa_image_url"},
+        {"name": "Kadai Mushroom Dosa", "image": "kadai_mushroom_dosa_image_url"},
+        {"name": "Egg Dosa", "image": "egg_dosa_image_url"},
+        {"name": "Chicken Dosa", "image": "chicken_dosa_image_url"},
+        {"name": "Fish Dosa", "image": "fish_dosa_image_url"}
+      ]
+    },
+    {
+      "category": "Appalam Varieties",
+      "items": [
+        {"name": "Plain Appalam", "image": "plain_appalam_image_url"},
+        {"name": "Red Chilly Appalam", "image": "red_chilly_appalam_image_url"},
+        {"name": "Pepper Appalam", "image": "pepper_appalam_image_url"},
+        {"name": "Jeera Appalam", "image": "jeera_appalam_image_url"},
+        {"name": "Garlic Appalam", "image": "garlic_appalam_image_url"},
+        {"name": "Tomato Appalam", "image": "tomato_appalam_image_url"},
+        {"name": "Green Chilly Appalam", "image": "green_chilly_appalam_image_url"},
+        {"name": "Ragi Appalam", "image": "ragi_appalam_image_url"},
+        {"name": "Kambu Appalam", "image": "kambu_appalam_image_url"},
+        {"name": "Multi Millet Appalam", "image": "multi_millet_appalam_image_url"},
+        {"name": "Oats Appalam", "image": "oats_appalam_image_url"}
+      ]
+    },
+    {
+      "category": "Side Dishes",
+      "items": [
+        {"name": "Kara Kuzhambu", "image": "kara_kuzhambu_image_url"},
+        {"name": "Poondu Kuzhambu", "image": "poondu_kuzhambu_image_url"},
+        {"name": "Vendakkai Kuzhambu", "image": "vendakkai_kuzhambu_image_url"},
+        {"name": "Mor Kuzhambu", "image": "mor_kuzhambu_image_url"},
+        {"name": "Vatha Kuzhambu", "image": "vatha_kuzhambu_image_url"},
+        {"name": "Aviyal", "image": "aviyal_image_url"},
+        {"name": "Puli Kuzhambu", "image": "puli_kuzhambu_image_url"},
+        {"name": "Rasam", "image": "rasam_image_url"},
+        {"name": "Paruppu Thuvaiyal", "image": "paruppu_thuvaiyal_image_url"},
+        {"name": "Coriander Chutney", "image": "coriander_chutney_image_url"},
+        {"name": "Kothamalli Chutney", "image": "kothamalli_chutney_image_url"},
+        {"name": "Tomato Chutney", "image": "tomato_chutney_image_url"},
+        {"name": "Onion Chutney", "image": "onion_chutney_image_url"},
+        {"name": "Kara Chutney", "image": "kara_chutney_image_url"},
+        {"name": "Coconut Chutney", "image": "coconut_chutney_image_url"},
+        {"name": "Carrot Chutney", "image": "carrot_chutney_image_url"},
+        {"name": "Beetroot Chutney", "image": "beetroot_chutney_image_url"},
+        {"name": "Radish Chutney", "image": "radish_chutney_image_url"},
+        {"name": "Ginger Chutney", "image": "ginger_chutney_image_url"},
+        {"name": "Capsicum Chutney", "image": "capsicum_chutney_image_url"},
+        {"name": "Mint Thuvaiyal", "image": "mint_thuvaiyal_image_url"},
+        {"name": "Brinjal Thuvaiyal", "image": "brinjal_thuvaiyal_image_url"},
+        {"name": "Gongura Thuvaiyal", "image": "gongura_thuvaiyal_image_url"},
+        {"name": "Pudina Thuvaiyal", "image": "pudina_thuvaiyal_image_url"},
+        {"name": "Pirandai Thuvaiyal", "image": "pirandai_thuvaiyal_image_url"},
+        {"name": "Curry Leaves Thuvaiyal", "image": "curry_leaves_thuvaiyal_image_url"},
+        {"name": "Mango Thuvaiyal", "image": "mango_thuvaiyal_image_url"}
+      ]
+    },
+    {
+      "category": "Rice Varieties",
+      "items": [
+        {"name": "Curd Rice", "image": "curd_rice_image_url"},
+        {"name": "Lemon Rice", "image": "lemon_rice_image_url"},
+        {"name": "Tamarind Rice", "image": "tamarind_rice_image_url"},
+        {"name": "Mango Rice", "image": "mango_rice_image_url"},
+        {"name": "Tomato Rice", "image": "tomato_rice_image_url"},
+        {"name": "Brinjal Rice", "image": "brinjal_rice_image_url"},
+        {"name": "Mint Rice", "image": "mint_rice_image_url"},
+        {"name": "Beetroot Rice", "image": "beetroot_rice_image_url"},
+        {"name": "Coconut Rice", "image": "coconut_rice_image_url"},
+        {"name": "Tamarind Coconut Rice", "image": "tamarind_coconut_rice_image_url"},
+        {"name": "Lemon Coconut Rice", "image": "lemon_coconut_rice_image_url"},
+        {"name": "Peanut Rice", "image": "peanut_rice_image_url"},
+        {"name": "Ginger Rice", "image": "ginger_rice_image_url"},
+        {"name": "Raw Mango Rice", "image": "raw_mango_rice_image_url"},
+        {"name": "Coriander Rice", "image": "coriander_rice_image_url"},
+        {"name": "Pudina Rice", "image": "pudina_rice_image_url"},
+        {"name": "Karuvepillai Rice", "image": "karuvepillai_rice_image_url"},
+        {"name": "Ghee Rice", "image": "ghee_rice_image_url"},
+        {"name": "Pepper Rice", "image": "pepper_rice_image_url"},
+        {"name": "Egg Rice", "image": "egg_rice_image_url"},
+        {"name": "Chicken Rice", "image": "chicken_rice_image_url"},
+        {"name": "Fish Rice", "image": "fish_rice_image_url"}
+      ]
+    },
+    {
+      "category": "Salad Varieties",
+      "items": [
+        {"name": "Vegetable Salad", "image": "vegetable_salad_image_url"},
+        {"name": "Fruit Salad", "image": "fruit_salad_image_url"},
+        {"name": "Sprout Salad", "image": "sprout_salad_image_url"},
+        {"name": "Bean Salad", "image": "bean_salad_image_url"},
+        {"name": "Pasta Salad", "image": "pasta_salad_image_url"},
+        {"name": "Egg Salad", "image": "egg_salad_image_url"},
+        {"name": "Chicken Salad", "image": "chicken_salad_image_url"},
+        {"name": "Tuna Salad", "image": "tuna_salad_image_url"}
+      ]
+    },
+    {
+      "category": "Soup Varieties",
+      "items": [
+        {"name": "Tomato Soup", "image": "tomato_soup_image_url"},
+        {"name": "Sweet Corn Soup", "image": "sweet_corn_soup_image_url"},
+        {"name": "Veg Clear Soup", "image": "veg_clear_soup_image_url"},
+        {"name": "Veg Hot & Sour Soup", "image": "veg_hot_sour_soup_image_url"},
+        {"name": "Chicken Clear Soup", "image": "chicken_clear_soup_image_url"},
+        {"name": "Chicken Hot & Sour Soup", "image": "chicken_hot_sour_soup_image_url"},
+        {"name": "Mutton Soup", "image": "mutton_soup_image_url"},
+        {"name": "Prawn Soup", "image": "prawn_soup_image_url"},
+        {"name": "Crab Soup", "image": "crab_soup_image_url"},
+        {"name": "Fish Soup", "image": "fish_soup_image_url"}
+      ]
+    },
+    {
+      "category": "Chaat Varieties",
+      "items": [
+        {"name": "Bhel Puri", "image": "bhel_puri_image_url"},
+        {"name": "Pani Puri", "image": "pani_puri_image_url"},
+        {"name": "Sev Puri", "image": "sev_puri_image_url"},
+        {"name": "Dahi Puri", "image": "dahi_puri_image_url"},
+        {"name": "Pav Bhaji", "image": "pav_bhaji_image_url"},
+        {"name": "Masala Puri", "image": "masala_puri_image_url"},
+        {"name": "Kachori", "image": "kachori_image_url"},
+        {"name": "Ragda Pattice", "image": "ragda_pattice_image_url"},
+        {"name": "Chole Bhature", "image": "chole_bhature_image_url"},
+        {"name": "Samosa Chaat", "image": "samosa_chaat_image_url"}
+      ]
+    },
+    {
+      "category": "Snack Varieties",
+      "items": [
+        {"name": "Masala Vadai", "image": "masala_vadai_image_url"},
+        {"name": "Ulundhu Vadai", "image": "ulundhu_vadai_image_url"},
+        {"name": "Cabbage Vadai", "image": "cabbage_vadai_image_url"},
+        {"name": "Carrot Vadai", "image": "carrot_vadai_image_url"},
+        {"name": "Corn Vadai", "image": "corn_vadai_image_url"},
+        {"name": "Beetroot Vadai", "image": "beetroot_vadai_image_url"},
+        {"name": "Plantain Vadai", "image": "plantain_vadai_image_url"},
+        {"name": "Mushroom Vadai", "image": "mushroom_vadai_image_url"},
+        {"name": "Paneer Vadai", "image": "paneer_vadai_image_url"},
+        {"name": "Fish Vadai", "image": "fish_vadai_image_url"},
+        {"name": "Chicken Vadai", "image": "chicken_vadai_image_url"},
+        {"name": "Mutton Vadai", "image": "mutton_vadai_image_url"},
+        {"name": "Kadala Vadai", "image": "kadala_vadai_image_url"},
+        {"name": "Masala Kadalai", "image": "masala_kadalai_image_url"},
+        {"name": "Peanut Sundal", "image": "peanut_sundal_image_url"},
+        {"name": "Masala Peanuts", "image": "masala_peanuts_image_url"},
+        {"name": "Fried Corn", "image": "fried_corn_image_url"},
+        {"name": "Fried Green Gram", "image": "fried_green_gram_image_url"},
+        {"name": "Fried Rajma", "image": "fried_rajma_image_url"},
+        {"name": "Fried Moong Dal", "image": "fried_moong_dal_image_url"},
+        {"name": "Fried Chana", "image": "fried_chana_image_url"},
+        {"name": "Masala Cashewnuts", "image": "masala_cashewnuts_image_url"}
+      ]
+    },
+    {
+      "category": "Juice Varieties",
+      "items": [
+        {"name": "Orange Juice", "image": "orange_juice_image_url"},
+        {"name": "Pineapple Juice", "image": "pineapple_juice_image_url"},
+        {"name": "Apple Juice", "image": "apple_juice_image_url"},
+        {"name": "Watermelon Juice", "image": "watermelon_juice_image_url"},
+        {"name": "Papaya Juice", "image": "papaya_juice_image_url"},
+        {"name": "Banana Juice", "image": "banana_juice_image_url"},
+        {"name": "Mango Juice", "image": "mango_juice_image_url"},
+        {"name": "Carrot Juice", "image": "carrot_juice_image_url"},
+        {"name": "Beetroot Juice", "image": "beetroot_juice_image_url"},
+        {"name": "Aloe Vera Juice", "image": "aloe_vera_juice_image_url"},
+        {"name": "Spinach Juice", "image": "spinach_juice_image_url"},
+        {"name": "Tomato Juice", "image": "tomato_juice_image_url"},
+        {"name": "Ginger Juice", "image": "ginger_juice_image_url"},
+        {"name": "Mint Juice", "image": "mint_juice_image_url"},
+        {"name": "Coriander Juice", "image": "coriander_juice_image_url"},
+        {"name": "Bitter Gourd Juice", "image": "bitter_gourd_juice_image_url"},
+        {"name": "Bottle Gourd Juice", "image": "bottle_gourd_juice_image_url"},
+        {"name": "Mixed Fruit Juice", "image": "mixed_fruit_juice_image_url"},
+        {"name": "Mixed Vegetable Juice", "image": "mixed_vegetable_juice_image_url"}
+      ]
+    },
+    {
+      "category": "Dessert Varieties",
+      "items": [
+        {"name": "Rasagulla", "image": "rasagulla_image_url"},
+        {"name": "Badusha", "image": "badusha_image_url"},
+        {"name": "Jalebi", "image": "jalebi_image_url"},
+        {"name": "Laddu", "image": "laddu_image_url"},
+        {"name": "Halwa", "image": "halwa_image_url"},
+        {"name": "Kesari", "image": "kesari_image_url"},
+        {"name": "Kheer", "image": "kheer_image_url"},
+        {"name": "Payasam", "image": "payasam_image_url"},
+        {"name": "Gulab Jamun", "image": "gulab_jamun_image_url"},
+        {"name": "Paal Ice", "image": "paal_ice_image_url"},
+        {"name": "Elaneer Paal", "image": "elaneer_paal_image_url"},
+        {"name": "Kulfi", "image": "kulfi_image_url"},
+        {"name": "Popsicle", "image": "popsicle_image_url"},
+        {"name": "Ice Cream", "image": "ice_cream_image_url"},
+        {"name": "Fruit Salad Ice", "image": "fruit_salad_ice_image_url"},
+        {"name": "Fruit Ice Cream", "image": "fruit_ice_cream_image_url"},
+        {"name": "Kadalai Ice", "image": "kadalai_ice_image_url"},
+        {"name": "Semiya Payasam", "image": "semiya_payasam_image_url"},
+        {"name": "Paruppu Payasam", "image": "paruppu_payasam_image_url"},
+        {"name": "Thinai Payasam", "image": "thinai_payasam_image_url"},
+        {"name": "Samai Payasam", "image": "samai_payasam_image_url"},
+        {"name": "Navadhanya Payasam", "image": "navadhanya_payasam_image_url"}
+      ]
+    },
+    {
+      "category": "Ice Cream Varieties",
+      "items": [
+        {"name": "Vanilla Ice Cream", "image": "vanilla_ice_cream_image_url"},
+        {"name": "Chocolate Ice Cream", "image": "chocolate_ice_cream_image_url"},
+        {"name": "Strawberry Ice Cream", "image": "strawberry_ice_cream_image_url"},
+        {"name": "Butterscotch Ice Cream", "image": "butterscotch_ice_cream_image_url"},
+        {"name": "Pista Ice Cream", "image": "pista_ice_cream_image_url"},
+        {"name": "Mango Ice Cream", "image": "mango_ice_cream_image_url"},
+        {"name": "Black Currant Ice Cream", "image": "black_currant_ice_cream_image_url"},
+        {"name": "Almond Ice Cream", "image": "almond_ice_cream_image_url"},
+        {"name": "Cashew Ice Cream", "image": "cashew_ice_cream_image_url"},
+        {"name": "Coconut Ice Cream", "image": "coconut_ice_cream_image_url"},
+        {"name": "Custard Apple Ice Cream", "image": "custard_apple_ice_cream_image_url"},
+        {"name": "Grape Ice Cream", "image": "grape_ice_cream_image_url"},
+        {"name": "Pineapple Ice Cream", "image": "pineapple_ice_cream_image_url"},
+        {"name": "Kiwi Ice Cream", "image": "kiwi_ice_cream_image_url"},
+        {"name": "Chikoo Ice Cream", "image": "chikoo_ice_cream_image_url"},
+        {"name": "Caramel Ice Cream", "image": "caramel_ice_cream_image_url"},
+        {"name": "Orange Ice Cream", "image": "orange_ice_cream_image_url"},
+        {"name": "Blueberry Ice Cream", "image": "blueberry_ice_cream_image_url"},
+        {"name": "Raspberry Ice Cream", "image": "raspberry_ice_cream_image_url"},
+        {"name": "Apricot Ice Cream", "image": "apricot_ice_cream_image_url"}
+      ]
+    }
+  ]
+  
+  
